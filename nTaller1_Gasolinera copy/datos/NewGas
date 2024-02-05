@@ -1,0 +1,13 @@
+tipo:ACPM:7000:500.0
+tipo:Extra:20000:500.0
+tipo:Corriente:10000:500.0
+tipo:PLUS:15000:500.0
+surtidor:Alvaro:ACPM:0.0:Extra:0.0:Corriente:0.0:PLUS:0.0
+surtidor:David:ACPM:0.0:Extra:0.0:Corriente:0.0:PLUS:0.0
+surtidor:Daniel:ACPM:0.0:Extra:0.0:Corriente:0.0:PLUS:0.0
+surtidor:Miguel:ACPM:0.0:Extra:0.0:Corriente:0.0:PLUS:0.0
+empleado:Alvaro:0
+empleado:David:0
+empleado:Nataly:0
+empleado:Daniel:0
+empleado:Miguel:0
